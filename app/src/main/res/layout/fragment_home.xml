@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.Home_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<com.qy.xlistview.XListView
+    android:layout_width="match_parent"
+    android:id="@+id/lv"
+    android:layout_height="match_parent">
+
+</com.qy.xlistview.XListView>
+<ImageView
+    android:src="@mipmap/wu"
+    android:visibility="gone"
+    android:id="@+id/ivv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+</FrameLayout>
