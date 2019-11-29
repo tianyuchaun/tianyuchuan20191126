@@ -44,7 +44,7 @@ public class MainActivity extends BasActivity {
         list.add(fragment2);
         list.add(fragment3);
         list.add(fragment4);
-
+        //田钰川初始化了周考代码
         list1.add("推荐");
         list1.add("视频");
         list1.add("时事");
